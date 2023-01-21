@@ -1,0 +1,26 @@
+<html>
+<head>
+  <style>
+    .cyan {
+      background-color: cyan;
+    }
+    .skyblue {
+      background-color: skyblue;
+    }
+    .grey {
+      background-color: grey;
+    }
+  </style>
+</head>
+<body>
+  <div class="cyan">
+    <h1>Welcome to our main lecture today</h1>
+  </div>
+  <div class="skyblue">
+    <h1>Welcome to our main lecture today</h1>
+  </div>
+  <div class="grey">
+    <h1>Welcome to our main lecture today</h1>
+  </div>
+</body>
+</html>
